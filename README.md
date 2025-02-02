@@ -16,8 +16,7 @@ Passionné par la *cybersécurité*, le **développement web, et l’ingénierie
 
 ## 📊 Statistiques GitHub  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunnoogo77&show_icons=true&theme=radical)  
-[![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunnoogo77&layout=compact&theme=radical)](https://github.com/Sunnoogo77)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunnoogo77&show_icons=true&theme=radical)  [![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunnoogo77&layout=compact&theme=radical)](https://github.com/Sunnoogo77)  
 
 ---
 
