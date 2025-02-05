@@ -1,14 +1,14 @@
 # 👋 Salut, je suis *Sunnoogo Caleb TAPSOBA* ! 🚀  
 
 Bienvenue sur mon GitHub !  
-Passionné par la *cybersécurité*, le **développement web, et l’ingénierie Cloud*, je suis un éternel apprenant, toujours à la recherche de nouveaux défis. Mon objectif est de grandir en compétences, d’explorer des technologies innovantes, et de partager mes projets avec la communauté tech.  
+Passionné par la *cybersécurité*, le *développement web, et l’ingénierie Cloud*, je suis un éternel apprenant, toujours à la recherche de nouveaux défis. Mon objectif est de grandir en compétences, d’explorer des technologies innovantes, et de partager mes projets avec la communauté tech.  
 
 ---
 
 ## 📍 Qui suis-je ?  
 
 🎓 *Étudiant à **l'EFREI Paris***, spécialisation en **Cybersécurité & Cloud**  
-☁️ Futur ingénieur Cloud, avec un fort intérêt pour l’automatisation, la sécurité des infrastructures, et le DevOps  
+☁️ Futur ingénieur Cloud, avec un fort intérêt pour l’automatisation, la sécurité des infrastructures 
 💻 Passionné par *Python*, avec des projets axés sur la sécurité et le développement de solutions basées sur le cloud  
 🚀 Ma vision : Commencer avec des projets basiques pour bâtir des fondations solides avant de me spécialiser dans des architectures Cloud complexes  
 
@@ -44,33 +44,6 @@ Passionné par la *cybersécurité*, le **développement web, et l’ingénierie
 - *Outils de gestion de version :*  
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-
----
-
-## 📂 Projets phares  
-
-### 🔒 **[VaultRoom](https://github.com/Sunnoogo77/VaultRoom)**  
-Une plateforme de chat sécurisée mettant l’accent sur la confidentialité des données grâce au chiffrement TLS et à une gestion robuste des utilisateurs.  
-
-### 🔑 **[MFA - Multi-Factor Authentication](https://github.com/Sunnoogo77/MFA)**  
-Implémentation d’un système d’authentification à deux facteurs (2FA) pour renforcer la sécurité des applications.  
-
-### 🛡️ **[Cybersecurity_Infosec](https://github.com/Sunnoogo77/Cybersecurity_Infosec)**  
-Étude comparative entre la cybersécurité et la sécurité de l'information, avec des analyses approfondies sur les meilleures pratiques.  
-
-### ⚙️ **[File-Text-Encryptor](https://github.com/Sunnoogo77/file-text-encryptor)**  
-Un projet JavaScript dédié au chiffrement de fichiers et de textes sensibles pour garantir la confidentialité des données.  
-
-### ⛓️ **[Password-Cracking](https://github.com/Sunnoogo77/Password-Cracking)**  
-Projet Python axé sur le craquage de mots de passe pour comprendre les vulnérabilités des systèmes d’authentification.  
-
----
-
-## 🎯 Ce que je recherche  
-
-- 🤝 Collaborations sur des projets liés à la *cybersécurité, au **cloud computing, et au **développement web sécurisé*  
-- 🚀 Opportunités d’apprentissage pour approfondir mes connaissances en *cloud engineering* et en *automatisation*  
-- 🧩 Partage de connaissances sur des sujets de sécurité de l’information et d’analyse des menaces  
 
 ---
 
