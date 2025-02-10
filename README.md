@@ -40,8 +40,7 @@ Passionné par la *cybersécurité*, le *développement web, et l’ingénierie 
 
 ## 🌐 Me retrouver en ligne  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/sunnoogo-caleb-tapsoba-130584292/))  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sunnoogo77)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/sunnoogo-caleb-tapsoba-130584292/)) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sunnoogo77)  
 
 ---
 
