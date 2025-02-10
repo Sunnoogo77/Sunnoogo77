@@ -5,15 +5,6 @@ Passionné par la *cybersécurité*, le *développement web, et l’ingénierie 
 
 ---
 
-## 📍 Qui suis-je ?  
-
-🎓 *Étudiant à **l'EFREI Paris***, spécialisation en **Cybersécurité & Cloud**  
-☁️ Futur ingénieur Cloud, avec un fort intérêt pour l’automatisation, la sécurité des infrastructures 
-💻 Passionné par *Python*, avec des projets axés sur la sécurité et le développement de solutions basées sur le cloud  
-🚀 Ma vision : Commencer avec des projets basiques pour bâtir des fondations solides avant de me spécialiser dans des architectures Cloud complexes  
-
----
-
 ## 📊 Statistiques GitHub  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunnoogo77&show_icons=true&theme=radical)  [![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunnoogo77&layout=compact&theme=radical)](https://github.com/Sunnoogo77)  
@@ -49,7 +40,7 @@ Passionné par la *cybersécurité*, le *développement web, et l’ingénierie 
 
 ## 🌐 Me retrouver en ligne  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonprofil)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/sunnoogo-caleb-tapsoba-130584292/))  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sunnoogo77)  
 
 ---
