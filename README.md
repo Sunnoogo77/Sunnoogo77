@@ -28,12 +28,6 @@ Approfondir mes compétences techniques en cybersécurité et cloud computing, c
 
 ---
 
-## 🔗 Me contacter
-
-- [LinkedIn](https://www.linkedin.com/in/sunnoogo-caleb-tapsoba-130584292/)
-
----
-
 ### 📊 Badges & Technologies
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
