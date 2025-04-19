@@ -1,38 +1,36 @@
-# 👋 Sunnoogo Caleb TAPSOBA  
+# 👋 Bonjour, je suis Sunnoogo Caleb TAPSOBA
 
-## 🛡️ Cybersecurity & Cloud Engineering Student 🚀
-
-Passionné par la sécurisation des infrastructures numériques et l'architecture cloud sécurisée. Étudiant en **Cybersécurité & Cloud** à **Efrei Paris**, avec une forte volonté de contribuer à un environnement numérique plus sûr.
-
----
-
-### 💼 Domaines d'Expertise
-
-* **Sécurité Cloud :** Azure Security, VPN, Firewalls, IAM
-* **Pentest & Analyse de Vulnérabilités :** Metasploit, Nmap, Burp Suite
-* **Analyse de Trafic & Forensics :** Wireshark, Tcpdump, Analyse Post-Mortem
-* **Chiffrement & Authentification :** SSL/TLS, MFA, Hashcat, PKI
-* **Développement Sécurisé (DevSecOps) :** Intégration de la sécurité dans le cycle de développement logiciel.
-* **Réponse à Incident & SOC Analysis:** Détection et analyse d'incidents, SIEM/EDR
+🎓 Étudiant en Ingé2 à l’EFREI Paris, en spécialisation **Cybersécurité & Cloud**.  
+🔐 Passionné par la sécurisation des systèmes d'information, l’architecture réseau, et l'administration des infrastructures cloud.🛡️
 
 ---
 
-### 🛠️ Compétences Techniques
+## 🛠️ Compétences en développement et apprentissage
 
-* **Langages de Programmation :** Python, Bash, JavaScript, SQL
-* **Technologies Cloud :** Azure (en approfondissement), Kubernetes (en cours d'apprentissage), Terraform (en cours d'apprentissage)
-* **Outils de Sécurité :** Metasploit, Nmap, Burp Suite, Wireshark, Tcpdump, Hashcat
-* **Développement Web :** React, Flask, Node.js
-* **Bases de Données :** MySQL, PostgreSQL, SQLite
-* **Gestion de Version :** Git, GitHub
+- Sécurisation d'infrastructures Cloud (AWS, Azure)  
+- Administration Linux & Windows Server  
+- Analyse de risques (ISO 27005, EBIOS RM)  
+- Forensic et Pentest (niveau initiation)  
+- Automatisation avec Python et Bash  
+- Mise en place de solutions de supervision et réponse aux incidents (SIEM)
 
 ---
 
-### 🚀 Projets en Cours & Apprentissage
+## 📂 Repositories publics
 
-* **Sécurité CI/CD :** Exploration et mise en œuvre de pratiques de sécurité dans les pipelines CI/CD.
-* **Orchestration de Conteneurs (Kubernetes) :** Apprentissage de la gestion et de la sécurisation des clusters Kubernetes.
-* **Infrastructure as Code (Terraform) :** Automatisation du déploiement d'infrastructures sécurisées dans le cloud.
+Vous pouvez découvrir mes projets sur [mes repositories GitHub](https://github.com/Sunnoogo77?tab=repositories).
+
+---
+
+## 🎯 Objectif
+
+Approfondir mes compétences techniques en cybersécurité et cloud computing, concevoir des solutions robustes, et contribuer à des projets exigeants et innovants.
+
+---
+
+## 🔗 Me contacter
+
+- [LinkedIn](https://www.linkedin.com/in/sunnoogo-caleb-tapsoba-130584292/)
 
 ---
 
