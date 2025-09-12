@@ -54,8 +54,7 @@
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sunnoogo77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunnoogo77&theme=tokyonight&hide_border=true" alt="Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sunnoogo77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunnoogo77&theme=tokyonight&hide_border=true" alt="Streak Stats">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunnoogo77&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langages">
 </div> 
