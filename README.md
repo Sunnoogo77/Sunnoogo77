@@ -1,6 +1,6 @@
 # 👋 Bienvenue, je suis **Sunnoogo Caleb TAPSOBA**
 
-🎓 Étudiant en Ingé2 à l’EFREI Paris, en spécialisation **Cybersécurité & Cloud**.  
+🎓 Étudiant en Ingé3 à l’EFREI Paris, en spécialisation **Cybersécurité & Cloud**.  
 🛡️ Passionné par la **Blue Team**, la **sécurisation des infrastructures**, la **surveillance SOC** et la **protection des environnements Cloud & SI**.
 
 ---
